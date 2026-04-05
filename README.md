@@ -59,18 +59,17 @@ The **Random Forest** classifier achieved the highest accuracy on the selected t
 - **Correct predictions:** 141 out of 143
 - **Misclassifications:** 2
 
-#### Confusion Matrix for Random Forest
+### Confusion Matrix for Random Forest
 
 ```text
 [[90  0]
- [ 2 51]
+ [ 2 51]]
+```
 
+## Model Comparison Chart
 
+<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/90d601de-a227-434d-ab6d-d4d7c86c6e9b" />
 
----
-
-```markdown
-<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/c88e642e-21a1-461f-9f08-8bcc76359bfc" />
 
 
 
