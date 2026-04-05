@@ -66,8 +66,12 @@ The **Random Forest** classifier achieved the highest accuracy on the selected t
  [ 2 51]
 
 
+
+---
+
 ```markdown
-<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/ff8a60a3-8953-4888-83a9-55ae4b4de192" />
+<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/c88e642e-21a1-461f-9f08-8bcc76359bfc" />
+
 
 
 
