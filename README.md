@@ -63,11 +63,12 @@ The **Random Forest** classifier achieved the highest accuracy on the selected t
 
 ```text
 [[90  0]
- [ 2 51]]
+ [ 2 51]
 
-## Model Comparison Chart
 
-<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/38a248e6-e43e-4636-a162-e1933e89173e" />
+```markdown
+<img width="1189" height="590" alt="Model Comparison" src="https://github.com/user-attachments/assets/ff8a60a3-8953-4888-83a9-55ae4b4de192" />
+
 
 
 
